@@ -1,3 +1,5 @@
+A solution for this kata https://www.codewars.com/kata/58558673b6b0e5a16b000028/train/javascript
+
 # exercises
 You are making your very own boardgame. The game is played by two opposing players, featuring a 6 x 6 tile system, with the players taking turns to move their pieces (similar to chess). The design is finished, now it's time to actually write and implement the features. Being the good programmer you are, you carefully plan the procedure and break the program down into smaller managable sections. You decide to start coding the logic for resolving "fights" when two pieces engage in combat on a tile.
 
